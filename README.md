@@ -30,8 +30,8 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
     </a>
 </p>
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://arianh.ir)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://arianhosseini.ir)
 
 
 <br />
@@ -46,23 +46,15 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 
 <br />
 
-<h3>⚫ GitHub Stats</h3>
+<h3><img src="https://img.icons8.com/ios-glyphs/23/000000/github.png"/> GitHub Stats</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhosseini&theme=github_dark&border_color=111)](https://github.com/aryanhosseini/github-readme-stats)
 
 <h3> 🤝 Where to find me </h3>
 
-<a href="https://github.com/aryanhosseini" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
 
-<a href="https://www.linkedin.com/in/arianhosseini" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/arianhosseini" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+](https://stackoverflow.com/users/11641089/arian-hosseini)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+](https://github.com/aryanhosseini)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+](https://gitlab.com/aryanhosseini)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arianhosseini)
 
