@@ -4,6 +4,14 @@
 
 ## 👋 Hi there, I'm Arian Hosseini!
 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+ ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+<p>
+I’m a self-motivated and goal-oriented Solidity developer seeking an entry-level position to broaden my knowledge and skills. Knowledgeable programming skills in Smart Contract development with Solidity, and JavaScript (React.js). Strong understanding of Solidity and Blockchain dApps Development, Interested in open source software community & GNU/Linux. 
+</p>
+
+
 <strong> 🔭 My Professional skills </strong>
 
 <p>
@@ -22,9 +30,13 @@
     </a>
 </p>
 
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+
 <br />
 
-<strong> 🤖 Thing that I'm interested in learning <i>at some point</i></strong>
+<strong> 🤖 Things that I'm interested in learning <i>at some point</i></strong>
 
 <p>
     <a href="https://arianhosseini.ir">
@@ -36,7 +48,7 @@
 
 <h3>⚫ GitHub Stats</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhosseini&theme=github_dark&border_color=111&hide_title=true)](https://github.com/aryanhosseini/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhosseini&theme=github_dark&border_color=111)](https://github.com/aryanhosseini/github-readme-stats)
 
 <h3> 🤝 Where to find me </h3>
 
@@ -51,3 +63,6 @@
 <a href="https://twitter.com/arianhosseini" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
+
+
