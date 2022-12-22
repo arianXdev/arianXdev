@@ -48,7 +48,8 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 
 <h3><img src="https://img.icons8.com/ios-glyphs/23/000000/github.png"/> GitHub Stats</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhosseini)](https://github.com/aryanhosseini/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini)
+
 
 
 <h3> 🤝 Where to find me </h3>
