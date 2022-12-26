@@ -20,18 +20,24 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
     </a>
 </p>
 
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+
 <br />
 
 <strong> 🛠 My Favorite Tech / Tools </strong>
 
 <p>
     <a href="https://arianhosseini.ir">
-        <img src="https://skillicons.dev/icons?i=linux,bash,git,jest,vscode,vim&theme=light" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,git,jest,vscode,vim,stackoverflow,github,figma&theme=dark" />
     </a>
 </p>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://arianh.ir)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://arianhosseini.ir)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
 
 
 <br />
