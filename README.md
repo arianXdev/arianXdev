@@ -52,9 +52,19 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 
 <br />
 
+
+### NPM Packages [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~arianhosseini)
+
+<a href="https://npmjs.com/package/hardhat-jest" target="_blank">
+    <ul><li><b>hardhat-jest</b>: A Hardhat plugin that allows you to use Jest easily!</li></ul>
+</a>
+
+<br />
+
+
 <h3><img src="https://img.icons8.com/ios-glyphs/23/000000/github.png"/> GitHub Stats</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanhosseini)
+![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanhosseini)
 
 
 
@@ -63,6 +73,6 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ](https://stackoverflow.com/users/11641089/arian-hosseini)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-](https://github.com/aryanhosseini)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-](https://gitlab.com/aryanhosseini)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arianhosseini)
+](https://github.com/ryanhosseini)[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+](https://gitlab.com/ryanhosseini)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arianhosseini)
 
