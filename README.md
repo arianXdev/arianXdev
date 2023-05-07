@@ -16,7 +16,7 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 
 <p>
     <a href="https://arianh.ir">
-        <img src="https://skillicons.dev/icons?i=solidity,react,ts,js,html,css" />
+        <img src="https://skillicons.dev/icons?i=solidity,react,redux,ts,js,html,css" />
     </a>
 </p>
 
