@@ -28,7 +28,7 @@ I’m a self-motivated and goal-oriented Solidity developer seeking an entry-lev
 <strong> 🛠 My Favorite Tech / Tools </strong>
 
 <p>
-    <a href="https://arianhosseini.ir">t
+    <a href="https://arianhosseini.ir">
         <img src="https://skillicons.dev/icons?i=linux,bash,git,jest,vscode,vim,stackoverflow,github,figma,vite&theme=dark" />
     </a>
 </p>
