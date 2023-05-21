@@ -2,13 +2,13 @@
     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
     width='200"' />
 
-## 👋 Hi there, I'm Arian Hosseini!
+## 👋 Hi there, It's Arian!
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <p>
-I’m a self-motivated and goal-oriented Solidity developer seeking an entry-level position to broaden my knowledge and skills. Knowledgeable programming skills in Smart Contract development with Solidity, and JavaScript (React.js). Strong understanding of Solidity and Blockchain dApps Development, Interested in open source software community & GNU/Linux. 
+I’m a self-motivated and goal-oriented Blockchain developer seeking an entry-level position to broaden my knowledge and skills. Knowledgeable programming skills in Smart Contract development with Solidity, and TypeScript / JavaScript / React.js. Strong understanding of Solidity and Blockchain DApps Development, Interested in open source software community & GNU/Linux. 
 </p>
 
 
