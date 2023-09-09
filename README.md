@@ -1,6 +1,3 @@
-<img align="right"
-    src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-    width='200"' />
 
 ## 👋 Hi there, It's Arian!
 
@@ -21,7 +18,7 @@ I’m a self-motivated and goal-oriented Blockchain developer seeking an entry-l
 </p>
 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <br />
 
@@ -35,7 +32,6 @@ I’m a self-motivated and goal-oriented Blockchain developer seeking an entry-l
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://arianhosseini.ir)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://arianh.ir)
 
 <br />
 
@@ -67,7 +63,7 @@ width='250' />
 
 <h3><img src="https://img.icons8.com/ios-glyphs/23/000000/github.png"/> GitHub Stats</h3>
 
-![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanhosseini)
+![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianXdev)
 
 
 
