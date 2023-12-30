@@ -13,7 +13,7 @@ I’m a self-motivated and goal-oriented Blockchain developer seeking an entry-l
 
 <p>
     <a href="https://arianh.ir">
-        <img src="https://icons.arianh.ir/index.svg" />
+        <img src="icons.svg" />
     </a>
 </p>
 
