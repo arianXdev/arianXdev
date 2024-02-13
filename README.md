@@ -5,7 +5,10 @@
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <p>
-I’m a self-motivated and goal-oriented Blockchain developer seeking an entry-level position to broaden my knowledge and skills. Knowledgeable programming skills in Smart Contract development with Solidity, and TypeScript / JavaScript / React.js. Strong understanding of Solidity and Blockchain DApps Development, Interested in open source software community & GNU/Linux. 
+I'm an ambitious and self-motivated Blockchain Developer with a focus on
+continuous learning and skill enhancement. Proficient in Smart Contract
+development using Solidity, and skilled in TypeScript / JavaScript, and
+React.js. Passionate about contributing to the opensource software community and enthusiastic about GNU/Linux.
 </p>
 
 
