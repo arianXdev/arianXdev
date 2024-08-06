@@ -5,10 +5,8 @@
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <p>
-I'm an ambitious and self-motivated Blockchain Developer with a focus on
-continuous learning and skill enhancement. Proficient in Smart Contract
-development using Solidity, and skilled in TypeScript / JavaScript, and
-React.js. Passionate about contributing to the opensource software community and enthusiastic about GNU/Linux.
+I'm an ambitious and self-motivated Software / Blockchain Developer with a focus on
+continuous learning and skill enhancement. Passionate about contributing to the open-source community and enthusiastic about GNU/Linux.
 </p>
 
 
