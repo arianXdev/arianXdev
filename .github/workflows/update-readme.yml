@@ -31,12 +31,8 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_skipped: EthernautCTF
-          plugin_16personalities: yes
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/884dc2289c213"
           plugin_music: yes
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred
+          plugin_music_top_type: artists
 
