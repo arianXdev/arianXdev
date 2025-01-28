@@ -35,4 +35,4 @@ jobs:
           plugin_music_top_type: artists
           plugin_music_limit: 5
           plugin_music_playlist: >-
-            https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--&si=SVKc3gRYDCChcYWy
+            https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
