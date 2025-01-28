@@ -63,8 +63,7 @@ width='250' />
 
 <h3><img src="https://img.icons8.com/ios-glyphs/23/000000/github.png"/> GitHub Stats</h3>
 
-![github-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arianXdev)
-
+<p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 
 <h3> 🤝 Where to find me </h3>
