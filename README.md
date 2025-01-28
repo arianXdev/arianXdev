@@ -55,7 +55,7 @@ As an ambitious Blockchain and Software Developer with a robust foundation in Co
 
 <a href="https://www.gitpoap.io/p/0xdcd220c563aeb04af19709b481c170aa1b3df9e1">
 <img src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-hardhat-contributor-2022-logo-1671132237589.png&w=384&q=75"
-width='250' />
+width='200' />
 </a>
     
 <br />
