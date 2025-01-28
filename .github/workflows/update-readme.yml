@@ -20,6 +20,7 @@ jobs:
 
           # Plugins & Options
           plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -28,3 +29,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_people: yes
+          plugin_people_types: members
+
