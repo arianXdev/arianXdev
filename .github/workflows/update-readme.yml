@@ -35,7 +35,3 @@ jobs:
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
           plugin_music_top_type: artists
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
