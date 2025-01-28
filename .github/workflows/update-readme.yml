@@ -33,8 +33,8 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
           plugin_music: yes
           plugin_music_playlist: >-
               https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
+          plugin_music_top_type: artists
 
