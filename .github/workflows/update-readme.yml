@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 */8 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -32,7 +32,6 @@ jobs:
           plugin_notable_from: all
           plugin_notable_skipped: EthernautCTF
           plugin_music: yes
-          plugin_music_top_type: artists
           plugin_music_limit: 5
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
