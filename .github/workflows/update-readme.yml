@@ -35,3 +35,4 @@ jobs:
           plugin_music_limit: 5
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
+          plugin_music_time_range: medium
