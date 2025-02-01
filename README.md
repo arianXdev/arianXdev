@@ -26,7 +26,7 @@ As an ambitious Blockchain and Software Developer with a robust foundation in Co
 
 <p>
     <a href="https://arianhosseini.ir">
-        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,git,jest,stackoverflow,github&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,lua,git,jest,stackoverflow,github&theme=dark" />
     </a>
 </p>
 
