@@ -51,4 +51,5 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_followup_sections: user
 
