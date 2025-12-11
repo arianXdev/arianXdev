@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: macos-latest
+    runs-on: windows-latest
     environment: 
       name: production
     permissions:
