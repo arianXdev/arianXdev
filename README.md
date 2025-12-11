@@ -5,14 +5,14 @@
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <p>
-As an ambitious Blockchain and Software Developer with a robust foundation in Computer Science and Software Engineering, I am driven by a passion for innovation and a commitment to continuous self-improvement. My career is distinguished by my efforts to push technological boundaries and explore new horizons in software development. I am dedicated to contributing to the open-source community, recognizing that collaboration can lead to significant progress and advancements. With proficiency in smart contract development using Solidity and strong skills in TypeScript, JavaScript, and various related technologies and frameworks, my expertise extends to a deep understanding of ERC standards and blockchain DApps development. My enthusiasm for GNU/Linux further complements my technical skills, allowing me to create impactful solutions and drive positive change within the digital landscape.
+As an ambitious Software Engineer with a robust foundation in Computer Science, I am driven by a passion for innovation and a commitment to continuous self-improvement. My career is distinguished by my efforts to push technological boundaries and explore new horizons in software development. I am dedicated to contributing to the open-source community, recognizing that collaboration can lead to significant progress and advancements. With proficiency in blockchain development using Solidity and strong skills in TypeScript, JavaScript, Python and various related technologies and frameworks, my expertise extends to a deep understanding of ERC standards and blockchain DApps development. My enthusiasm for GNU/Linux further complements my technical skills, allowing me to create impactful solutions and drive positive change within the digital landscape.
 </p>
 
 
 <strong> 🔭 My Professional skills </strong>
 
 <p>
-    <a href="https://arianh.ir">
+    <a>
         <img src="icons.svg" />
     </a>
 </p>
@@ -25,8 +25,8 @@ As an ambitious Blockchain and Software Developer with a robust foundation in Co
 <strong> 🛠 My Favorite Tech / Tools </strong>
 
 <p>
-    <a href="https://arianhosseini.ir">
-        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,lua,python,git,jest,stackoverflow,github&theme=dark" />
+    <a>
+        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,rust,python,lua,git,jest,stackoverflow,github&theme=dark" />
     </a>
 </p>
 
@@ -70,7 +70,7 @@ width='200' />
 
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-](https://stackoverflow.com/users/11641089/arian-hosseini)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arianhosseini) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arianhosseini) [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+](https://stackoverflow.com/users/11641089/arian-hosseini)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arianh) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arianhosseini) [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ](https://gitlab.com/arianhosseini)
 
 
