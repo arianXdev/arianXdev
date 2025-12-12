@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Plugins & Options
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -35,7 +35,7 @@ jobs:
           plugin_notable_types: commit, pull_request
           plugin_notable_repositories: yes
           plugin_music: yes
-          plugin_music_limit: 3
+          plugin_music_limit: 6
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
           plugin_wakatime: yes
@@ -50,6 +50,6 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 30
           plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: user
+          plugin_followup_indepth: no
+          plugin_followup_sections: user, repository
 
