@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     environment: 
       name: production
     permissions:
@@ -39,7 +39,7 @@ jobs:
           plugin_music_playlist: >-
             https://music.youtube.com/playlist?list=PLmjXnqwE5MTT_TMHx0LYvkYJsEypAdA--
           plugin_wakatime: yes
-          plugin_wakatime_days: 14
+          plugin_wakatime_days: 21
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
           plugin_wakatime_sections: time, projects, languages-graphs, editors-graphs, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
