@@ -26,7 +26,7 @@ As an ambitious Software Engineer with a robust foundation in Computer Science, 
 
 <p>
     <a>
-        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,rust,python,lua,git,jest,stackoverflow,github&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arch,linux,vim,neovim,bash,rust,python,lua,git,stackoverflow,github&theme=dark" />
     </a>
 </p>
 
