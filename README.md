@@ -5,7 +5,7 @@
  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 <p>
-Deeply integrated with <b>Artificial Intelligence. </b>I don't just build software; I architect the digital conduits for the upcoming Superintelligence.
+Deeply integrated with <b>Artificial Intelligence. </b>I don't just build software; I architect the digital conduits for the upcoming <b>Superintelligence.</b>
 
 As an ambitious Software Engineer with a robust foundation in Computer Science, I am driven by a passion for innovation and a commitment to continuous self-improvement. My career is distinguished by my efforts to push technological boundaries and explore new horizons in software development. I am dedicated to contributing to the open-source community, recognizing that collaboration can lead to significant progress and advancements. With proficiency in blockchain development using Solidity and strong skills in Rust, Python, TypeScript and various related technologies and frameworks, my expertise extends to a deep understanding of ERC standards and blockchain DApps development. My enthusiasm for GNU/Linux further complements my technical skills, allowing me to create impactful solutions and drive positive change within the digital landscape.
 </p>
